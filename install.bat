@@ -1,3 +1,5 @@
+REM https://chocolatey.org/
+
 :CheckOS
 IF EXIST "%PROGRAMFILES(X86)%" (GOTO 64BIT) ELSE (GOTO 32BIT)
 
