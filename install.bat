@@ -15,7 +15,8 @@ echo 32-bit...
 
 choco install sharex -y
 choco install autohotkey.install -y
-choco install redis -y 
+choco install redis -y
+choco install ffmpeg -y
 
 GOTO END
 
