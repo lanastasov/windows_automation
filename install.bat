@@ -8,6 +8,11 @@ echo 64-bit...
 
 choco install redis-64 -y
 
+choco install sharex -y
+choco install autohotkey.install -y
+choco install ffmpeg -y
+choco install irfanview -y
+
 GOTO END
 
 :32BIT
@@ -17,6 +22,7 @@ choco install sharex -y
 choco install autohotkey.install -y
 choco install redis -y
 choco install ffmpeg -y
+choco install irfanview -y
 
 GOTO END
 
