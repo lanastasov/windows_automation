@@ -1,5 +1,9 @@
 REM https://chocolatey.org/
 
+REM sizer
+REM chrome-zoomed: 1303 x 743
+REM meta-zoomed:   1295 x 758  
+
 :CheckOS
 IF EXIST "%PROGRAMFILES(X86)%" (GOTO 64BIT) ELSE (GOTO 32BIT)
 
