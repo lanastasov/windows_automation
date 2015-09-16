@@ -4,7 +4,7 @@ REM sizer
 REM chrome-zoomed: 1303 x 743
 REM meta-zoomed:   1295 x 758  
 
-REM grep replacement
+REM sift - grep replacement
 REM http://sift-tool.org/
 REM go get github.com/svent/sift
 
