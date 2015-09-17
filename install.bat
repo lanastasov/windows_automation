@@ -8,6 +8,11 @@ REM st2-zoomed:    1294 x 756
 REM sift - grep replacement
 REM http://sift-tool.org/
 REM go get github.com/svent/sift
+REM
+REM oracle - source analysis tool that answers questions about Go programs
+REM http://golang.org/s/oracle-user-manual
+REM go get golang.org/x/tools/cmd/oracle
+REM 
 
 :CheckOS
 IF EXIST "%PROGRAMFILES(X86)%" (GOTO 64BIT) ELSE (GOTO 32BIT)
