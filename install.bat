@@ -14,6 +14,9 @@ REM http://golang.org/s/oracle-user-manual
 REM go get golang.org/x/tools/cmd/oracle
 REM 
 
+REM setx Path "%Path%;%USERPROFILE%\bin\;"
+REM WARNING: The data being saved is truncated to 1024 characters.
+
 :CheckOS
 IF EXIST "%PROGRAMFILES(X86)%" (GOTO 64BIT) ELSE (GOTO 32BIT)
 
