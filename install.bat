@@ -17,6 +17,9 @@ REM
 REM setx Path "%Path%;%USERPROFILE%\bin\;"
 REM WARNING: The data being saved is truncated to 1024 characters.
 
+REM epub reader 
+REM http://www.epubread.com/app/reader.html
+
 :CheckOS
 IF EXIST "%PROGRAMFILES(X86)%" (GOTO 64BIT) ELSE (GOTO 32BIT)
 
