@@ -1,7 +1,7 @@
 REM https://chocolatey.org/
 
 REM sizer
-REM chrome-zoomed: 1303 x 743
+REM chrome-zoomed: 1290 x 725 window
 REM meta-zoomed:   1295 x 758
 REM st2-zoomed:    1294 x 756
 
