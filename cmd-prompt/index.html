@@ -9,12 +9,18 @@
   	<li> Alias in win cmd </li>
   	<ul>
 	  	<li> 
-	  		<a href="resources/wincmd-alias.png"> create %USERPROFILE%\bin\ folder and add it to %PATH% environment variable </a>
+	  		<a href="resources/wincmd-alias.png"> 
+	  			create %USERPROFILE%\bin\ folder and add it to %PATH% environment variable 
+	  			<b>setx Path "%Path%;%USERPROFILE%\bin\;" </b>
+	  		</a>
 	  	</li>
 
 	  	<li>
-			create AutoRun with New -> String Value in HKLM\SOFTWARE\Microsoft\Command Processor\AutoRun in regedit 
-			and modify the data of the newly creted AutoRun with the location and name of the bat file which extends the cmd
+			<p> create AutoRun with New -> String Value in HKEY_CURRENT_USER\Software\Microsoft\Command Processor\AutoRun in regedit </p>
+			<p> modify the data of the newly creted AutoRun with the location and name of the bat file which extends the cmd </p>
+			<p> AutoRun = "C:\Users\lanastasov\bin\cmd-enhanced.bat" </p>
+			<p> cmd-enhanced.bat calls C:\Users\lanastasov\bin\setenv.bat </p>
+			
 	  	</li>
 	  </ul>
   </ol>
