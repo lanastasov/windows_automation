@@ -7,7 +7,7 @@ set GOBIN=C:\Users\lanastasov\go/bin
 doskey hh=cd C:\dev\lanastasov
 doskey r=cd C:\dev\ruby
 doskey goh=cd C:\Users\lanastasov\go\src\github.com\lanastasov
-doskey subl="C:\Program Files\Sublime Text 2\sublime_text.exe" $1
+doskey subl="C:\Program Files (x86)\Sublime Text 3\sublime_text.exe" $1
 
 doskey chrome="C:\Program Files\Google\Chrome\Application\chrome.exe" $1
 doskey chrome="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" $1
