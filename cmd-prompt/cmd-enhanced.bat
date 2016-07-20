@@ -1,5 +1,5 @@
 @echo off
-CALL "E:\lanastasov\setenv.bat"
+CALL "C:\Users\lanastasov\bin\setenv.bat"
 C:
 cd "C:\dev"
 
