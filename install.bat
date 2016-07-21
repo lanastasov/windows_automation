@@ -24,6 +24,9 @@ REM WARNING: The data being saved is truncated to 1024 characters.
 REM epub reader 
 REM http://www.epubread.com/app/reader.html
 
+REM PDF-XChange Viewer
+REM http://www.tracker-software.com/product/pdf-xchange-viewer
+
 REM CD/DVD Burner
 REM http://www.imgburn.com/index.php?act=download&
 
