@@ -30,6 +30,9 @@ REM http://www.tracker-software.com/product/pdf-xchange-viewer
 REM CD/DVD Burner
 REM http://www.imgburn.com/index.php?act=download&
 
+REM Hijacker
+REM C:\Users\lanastasov\AppData\Local\Google\Chrome\User Data\Default\Local Storage\http_search.safefinder.com_0.localstorage
+
 :CheckOS
 IF EXIST "%PROGRAMFILES(X86)%" (GOTO 64BIT) ELSE (GOTO 32BIT)
 
