@@ -2,7 +2,11 @@ rem set PATH=C:\BitNami\support-redmine-2.2.3-0/git\cmd;%PATH%
 rem set PATH=C:\gtk\bin;C:\msys\1.0\bin;C:\gnumake-3.81;C:\MinGW_gratest\msys\1.0\bin;%PATH%
 set PATH=C:\Ruby22\bin;%PATH%
 set PATH=C:\Windows\Microsoft.NET\Framework\v4.0.30319;%PATH%
+set PATH=C:\Users\lanastasov\go\bin;%PATH%
+set PATH=C:\Go\bin;%PATH%
+
 set GOBIN=C:\Users\lanastasov\go/bin
+set GOPATH=C:\Users\lanastasov\go
 
 doskey hh=cd C:\dev\lanastasov
 doskey r=cd C:\dev\ruby
