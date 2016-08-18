@@ -28,6 +28,9 @@ REM PDF-XChange Viewer
 REM http://www.tracker-software.com/product/pdf-xchange-viewer
 REM gswin64c -sDEVICE=txtwrite -o output.txt input.pdf
 
+REM ZIP
+REM http://www.jzip.com/
+
 REM CD/DVD Burner
 REM http://www.imgburn.com/index.php?act=download&
 
