@@ -26,6 +26,7 @@ REM http://www.epubread.com/app/reader.html
 
 REM PDF-XChange Viewer
 REM http://www.tracker-software.com/product/pdf-xchange-viewer
+REM http://www.sumatrapdfreader.org/download-free-pdf-viewer.html
 REM gswin64c -sDEVICE=txtwrite -o output.txt input.pdf
 
 REM ZIP
