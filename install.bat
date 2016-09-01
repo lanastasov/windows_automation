@@ -35,6 +35,10 @@ REM http://www.jzip.com/
 REM CD/DVD Burner
 REM http://www.imgburn.com/index.php?act=download&
 
+REM KMPlayer
+REM GLOBAL HOTKEYS
+REM F2(PREFERENCES) -> General -> Keys/Global Control -> Global
+
 REM Sound in cmd
 REM powershell -c (New-Object Media.SoundPlayer "C:\Windows\Media\notify.wav").PlaySync();
 
