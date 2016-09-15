@@ -15,6 +15,7 @@ doskey subl="C:\Program Files (x86)\Sublime Text 3\sublime_text.exe" $1
 
 doskey chrome="C:\Program Files\Google\Chrome\Application\chrome.exe" $1
 doskey chrome="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" $1
+doskey finereader="E:\programs\ABBYY FineReader 11.0.110.122 Corporate Edition Portable\ABBYY FineReader 11.exe"
 
 doskey staticrb=ruby -run -ehttpd . -p8000
 
