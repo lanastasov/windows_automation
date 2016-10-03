@@ -29,6 +29,12 @@ REM http://www.tracker-software.com/product/pdf-xchange-viewer
 REM http://www.sumatrapdfreader.org/download-free-pdf-viewer.html
 REM gswin64c -sDEVICE=txtwrite -o output.txt input.pdf
 
+REM E:\programs\nircmd-x64\nircmd.exe cmdwait 1000 monitor off
+REM CTRL+ALT+F12
+
+REM E:\programs\nircmd-x64\nircmd.exe mutesysvolume 2
+REM CTRL+ALT+M 
+
 REM ZIP
 REM http://www.jzip.com/
 
