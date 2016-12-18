@@ -21,6 +21,10 @@ REM
 REM setx Path "%Path%;%USERPROFILE%\bin\;"
 REM WARNING: The data being saved is truncated to 1024 characters.
 
+REM rundll32 url.dll,FileProtocolHandler http://localhost:8080
+REM exec.Command("rundll32", "url.dll,FileProtocolHandler", url).Start()
+REM open web address from command prompt 
+
 REM epub reader 
 REM http://www.epubread.com/app/reader.html
 
