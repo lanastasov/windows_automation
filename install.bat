@@ -53,6 +53,9 @@ REM F2(PREFERENCES) -> General -> Keys/Global Control -> Global
 REM Sound in cmd
 REM powershell -c (New-Object Media.SoundPlayer "C:\Windows\Media\notify.wav").PlaySync();
 
+REM Disable Windows Defender
+REM gpedit.msc -> Administrative Templates -> Windows Components -> Windows Defender -> Turn off Windows Defender -> select ENABLED
+
 :CheckOS
 IF EXIST "%PROGRAMFILES(X86)%" (GOTO 64BIT) ELSE (GOTO 32BIT)
 
