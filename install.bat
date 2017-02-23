@@ -9,14 +9,16 @@ REM sizer - resize windows
 REM http://www.brianapps.net/sizer/sizer334.msi
 REM windows_automation/apps/sizer334.msi
 
+REM flv
+REM go get github.com/lanastasov/flv
+
 REM sift - grep replacement
 REM http://sift-tool.org/
 REM go get github.com/svent/sift
-REM
+
 REM oracle - source analysis tool that answers questions about Go programs
 REM http://golang.org/s/oracle-user-manual
 REM go get golang.org/x/tools/cmd/oracle
-REM 
 
 REM setx Path "%Path%;%USERPROFILE%\bin\;"
 REM WARNING: The data being saved is truncated to 1024 characters.
