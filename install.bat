@@ -58,6 +58,10 @@ REM powershell -c (New-Object Media.SoundPlayer "C:\Windows\Media\notify.wav").P
 REM Disable Windows Defender
 REM gpedit.msc -> Administrative Templates -> Windows Components -> Windows Defender -> Turn off Windows Defender -> select ENABLED
 
+REM Ruby DevKit
+REM http://rubyinstaller.org/downloads/
+REM https://github.com/oneclick/rubyinstaller/wiki/Development-Kit
+
 :CheckOS
 IF EXIST "%PROGRAMFILES(X86)%" (GOTO 64BIT) ELSE (GOTO 32BIT)
 
