@@ -36,6 +36,9 @@ REM http://www.sumatrapdfreader.org/download-free-pdf-viewer.html
 REM gswin64c -sDEVICE=txtwrite -o output.txt input.pdf
 REM pdftk file.pdf cat 26-34 output file3.pdf
 
+REM MSYS2 is a software distro and building platform for Windows
+REM http://www.msys2.org/
+
 REM E:\programs\nircmd-x64\nircmd.exe cmdwait 1000 monitor off
 REM CTRL+ALT+F12
 
