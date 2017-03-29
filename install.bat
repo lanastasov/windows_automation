@@ -54,6 +54,9 @@ REM http://www.imgburn.com/index.php?act=download&
 REM KMPlayer
 REM GLOBAL HOTKEYS
 REM F2(PREFERENCES) -> General -> Keys/Global Control -> Global
+REM -----------------------------------------------------------
+REN http://www.googletagservices.com/video.js
+REM Internet Explorer -> Tools (alt+X) -> Internet Options -> Security -> Restricted Sites -> Sites -> Add
 
 REM Sound in cmd
 REM powershell -c (New-Object Media.SoundPlayer "C:\Windows\Media\notify.wav").PlaySync();
