@@ -55,7 +55,7 @@ REM KMPlayer
 REM GLOBAL HOTKEYS
 REM F2(PREFERENCES) -> General -> Keys/Global Control -> Global
 REM -----------------------------------------------------------
-REN http://www.googletagservices.com/video.js
+REM http://www.googletagservices.com/video.js
 REM Internet Explorer -> Tools (alt+X) -> Internet Options -> Security -> Restricted Sites -> Sites -> Add
 
 REM Sound in cmd
