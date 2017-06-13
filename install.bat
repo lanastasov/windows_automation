@@ -68,6 +68,9 @@ REM Ruby DevKit
 REM http://rubyinstaller.org/downloads/
 REM https://github.com/oneclick/rubyinstaller/wiki/Development-Kit
 
+REM find text in files
+REM findstr /s "computer help" *.txt
+
 :CheckOS
 IF EXIST "%PROGRAMFILES(X86)%" (GOTO 64BIT) ELSE (GOTO 32BIT)
 
