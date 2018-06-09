@@ -1,5 +1,8 @@
 REM https://chocolatey.org/
 
+REM Acer - Atheros AR5B125 Wireless Network Adapter
+REM      - Broadcom NetLink (TM) Gigabit Ethernet
+
 REM sizer
 REM chrome-zoomed: 1290 x 725 window
 REM meta-zoomed:   1295 x 758
