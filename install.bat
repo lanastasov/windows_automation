@@ -74,6 +74,9 @@ REM https://github.com/oneclick/rubyinstaller/wiki/Development-Kit
 REM find text in files
 REM findstr /s "computer help" *.txt
 
+REM ShareX
+REM Task Settings -> Upload -> File naming -> Name pattern for window capture: %pn_%y-%mo-%d_%h-%mi-%s
+
 :CheckOS
 IF EXIST "%PROGRAMFILES(X86)%" (GOTO 64BIT) ELSE (GOTO 32BIT)
 
