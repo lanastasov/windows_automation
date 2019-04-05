@@ -33,6 +33,9 @@ REM open web address from command prompt
 REM epub reader 
 REM http://www.epubread.com/app/reader.html
 
+REM hdd partition manager
+REM https://www.partitionwizard.com/  - MiniTool Partition Wizard Free
+
 REM PDF-XChange Viewer
 REM http://www.tracker-software.com/product/pdf-xchange-viewer
 REM http://www.sumatrapdfreader.org/download-free-pdf-viewer.html
