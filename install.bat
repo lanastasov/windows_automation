@@ -36,6 +36,11 @@ REM http://www.epubread.com/app/reader.html
 REM hdd partition manager
 REM https://www.partitionwizard.com/  - MiniTool Partition Wizard Free
 
+REM error: Can't read from the source file or disk
+REM https://www.powerdatarecovery.com
+REM MiniTool Power Data Recovery free edition
+
+
 REM PDF-XChange Viewer
 REM http://www.tracker-software.com/product/pdf-xchange-viewer
 REM http://www.sumatrapdfreader.org/download-free-pdf-viewer.html
