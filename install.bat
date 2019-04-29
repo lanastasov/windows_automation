@@ -82,6 +82,9 @@ REM https://github.com/oneclick/rubyinstaller/wiki/Development-Kit
 REM find text in files
 REM findstr /s "computer help" *.txt
 
+REM Search for files from dos command prompt
+REM dir "*text*" /s
+
 REM ShareX
 REM Task Settings -> Upload -> File naming -> Name pattern for window capture: %pn_%y-%mo-%d_%h-%mi-%s
 
