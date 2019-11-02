@@ -16,6 +16,9 @@ REM miniserve - Serve files through HTTP
 REM miniserve-win-x86_64.exe -i 192.168.1.103 spasov-penny-stocks
 REM https://github.com/svenstaro/miniserve 
 
+REM speed up in browser html5 video
+REM document.querySelector('video').playbackRate = 1.75;
+
 REM flv
 REM go get github.com/lanastasov/flv
 
