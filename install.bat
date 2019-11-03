@@ -19,6 +19,10 @@ REM https://github.com/svenstaro/miniserve
 REM speed up in browser html5 video
 REM document.querySelector('video').playbackRate = 1.75;
 REM document.getElementsByTagName('video')[0].volume = 0.2;
+REM var elem = document.getElementById("myvideo");
+REM elem.requestFullscreen();
+REM var elem = document.documentElement;
+REM document.exitFullscreen();
 REM javascript:(function(){document.querySelector('video').playbackRate = 1.75;})();
 
 REM flv
