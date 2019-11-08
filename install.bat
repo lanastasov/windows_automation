@@ -23,6 +23,9 @@ REM var elem = document.getElementById("myvideo");
 REM elem.requestFullscreen();
 REM var elem = document.documentElement;
 REM document.exitFullscreen();
+REM video timeoffset
+REM var video = document.getElementsByTagName("video")[0];
+REM video.currentTime = starttimeoffset;
 REM javascript:(function(){document.querySelector('video').playbackRate = 1.75;})();
 
 REM flv
