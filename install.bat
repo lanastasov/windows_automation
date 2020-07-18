@@ -16,6 +16,12 @@ REM miniserve - Serve files through HTTP
 REM miniserve-win-x86_64.exe -i 192.168.1.103 spasov-penny-stocks
 REM https://github.com/svenstaro/miniserve 
 
+REM ZET - Astrology Software
+REM http://www.zaytsev.com/downloads.html
+
+REM Astrolog Freeware Software
+REM https://www.astrolog.org/astrolog/astfile.htm
+
 REM speed up in browser html5 video
 REM document.querySelector('video').playbackRate = 1.75;
 REM document.getElementsByTagName('video')[0].volume = 0.2;
