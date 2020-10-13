@@ -22,6 +22,7 @@ REM https://github.com/lanastasov/windows_automation/blob/master/cmd-prompt/remo
 
 REM auto login with password
 REM https://www.technipages.com/how-to-enable-auto-login-in-windows-10
+REM https://github.com/lanastasov/windows_automation/blob/master/cmd-prompt/how-to-enable-auto-login-in-windows-10.png
 
 REM miniserve - Serve files through HTTP
 REM miniserve-win-x86_64.exe -i 192.168.1.103 spasov-penny-stocks
