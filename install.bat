@@ -13,6 +13,7 @@ REM http://www.brianapps.net/sizer/sizer334.msi
 REM windows_automation/apps/sizer334.msi
 
 REM remote shutdown
+REM http://mswintips.com/Access%20Is%20Denied.(5)%20On%20Remote%20Shutdown%20Fix.php
 REM https://www.groovypost.com/howto/remote-shutdown-restart-windows-10/
 
 REM miniserve - Serve files through HTTP
