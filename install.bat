@@ -20,6 +20,9 @@ REM http://mswintips.com/Access%20Is%20Denied.(5)%20On%20Remote%20Shutdown%20Fix
 REM https://www.groovypost.com/howto/remote-shutdown-restart-windows-10/
 REM https://github.com/lanastasov/windows_automation/blob/master/cmd-prompt/remote-shutdown-local-network.png
 
+REM auto login with password
+REM https://www.technipages.com/how-to-enable-auto-login-in-windows-10
+
 REM miniserve - Serve files through HTTP
 REM miniserve-win-x86_64.exe -i 192.168.1.103 spasov-penny-stocks
 REM https://github.com/svenstaro/miniserve 
