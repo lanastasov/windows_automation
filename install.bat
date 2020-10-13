@@ -18,6 +18,7 @@ REM DESKTOP-9ODBGEN
 REM remote shutdown
 REM http://mswintips.com/Access%20Is%20Denied.(5)%20On%20Remote%20Shutdown%20Fix.php
 REM https://www.groovypost.com/howto/remote-shutdown-restart-windows-10/
+REM https://github.com/lanastasov/windows_automation/blob/master/cmd-prompt/remote-shutdown-local-network.png
 
 REM miniserve - Serve files through HTTP
 REM miniserve-win-x86_64.exe -i 192.168.1.103 spasov-penny-stocks
