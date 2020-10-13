@@ -12,6 +12,9 @@ REM sizer - resize windows
 REM http://www.brianapps.net/sizer/sizer334.msi
 REM windows_automation/apps/sizer334.msi
 
+REM remote shutdown
+REM https://www.groovypost.com/howto/remote-shutdown-restart-windows-10/
+
 REM miniserve - Serve files through HTTP
 REM miniserve-win-x86_64.exe -i 192.168.1.103 spasov-penny-stocks
 REM https://github.com/svenstaro/miniserve 
