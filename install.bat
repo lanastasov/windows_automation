@@ -17,6 +17,9 @@ REM DESKTOP-9ODBGEN
 
 REM https://code.labstack.com/go
 
+REM Start HTML5 video at a particular position when loading?
+REM video.mp4#t=10
+
 REM https://tekin.co.uk/2020/10/better-git-diff-output-for-ruby-python-elixir-and-more
 
 REM highligher effect on schreenshot
