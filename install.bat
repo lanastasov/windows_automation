@@ -15,6 +15,8 @@ REM windows_automation/apps/sizer334.msi
 REM desktop-7huo5h1
 REM DESKTOP-9ODBGEN
 
+REM https://code.labstack.com/go
+
 REM https://tekin.co.uk/2020/10/better-git-diff-output-for-ruby-python-elixir-and-more
 
 REM highligher effect on schreenshot
