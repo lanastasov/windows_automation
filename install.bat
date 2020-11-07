@@ -43,6 +43,10 @@ REM http://www.zaytsev.com/downloads.html
 
 REM Astrolog Freeware Software
 REM https://www.astrolog.org/astrolog/astfile.htm
+REM press 'Enter' to trigger the command prompt and type the following commands
+REM -qy 2018 - move current time to beginning of 2018 (Compute chart for first day of year)
+REM -qm 03 2020 - Compute chart for first of month ( march = 03)
+REM -qd 03 23 2019 - Compute chart for noon on date. (march-23-2019)
 
 REM speed up in browser html5 video
 REM document.querySelector('video').playbackRate = 1.75;
