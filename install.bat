@@ -30,6 +30,7 @@ REM https://developers.google.com/web/updates/2017/09/autoplay-policy-changes
 REM https://support.google.com/chrome/a/answer/7649838?hl=en
 REM Windows registry location for Windows clients: Software\Policies\Google\Chrome\AutoplayAllowed
 REM Admin cmd -> gpedit.exe
+REM chrome://policy/
 
 REM remote shutdown
 REM http://mswintips.com/Access%20Is%20Denied.(5)%20On%20Remote%20Shutdown%20Fix.php
