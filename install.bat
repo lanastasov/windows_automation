@@ -25,6 +25,12 @@ REM https://tekin.co.uk/2020/10/better-git-diff-output-for-ruby-python-elixir-an
 REM highligher effect on schreenshot
 REM https://www.pcworld.com/article/161419/Create_a_Yellow_Highlighter_Effect_in_Your_Screenshots.html
 
+REM html5 video autoplay
+REM https://developers.google.com/web/updates/2017/09/autoplay-policy-changes
+REM https://support.google.com/chrome/a/answer/7649838?hl=en
+REM Windows registry location for Windows clients: Software\Policies\Google\Chrome\AutoplayAllowed
+REM Admin cmd -> gpedit.exe
+
 REM remote shutdown
 REM http://mswintips.com/Access%20Is%20Denied.(5)%20On%20Remote%20Shutdown%20Fix.php
 REM https://www.groovypost.com/howto/remote-shutdown-restart-windows-10/
