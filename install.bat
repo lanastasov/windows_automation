@@ -8,6 +8,8 @@ REM chrome-zoomed: 1290 x 725 window
 REM meta-zoomed:   1295 x 758
 REM st2-zoomed:    1294 x 756
 
+REM https://www.radioeins.de/livestream/
+
 REM sizer - resize windows
 REM http://www.brianapps.net/sizer/sizer334.msi
 REM windows_automation/apps/sizer334.msi
