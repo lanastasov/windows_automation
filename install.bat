@@ -21,6 +21,9 @@ REM https://code.labstack.com/go
 
 REM Start HTML5 video at a particular position when loading?
 REM video.mp4#t=10
+REM #t=10,20 => results in the time interval [10,20)
+REM #t=,20 => results in the time interval [0,20)
+REM #t=10 => results in the time interval [10,end)
 
 REM https://tekin.co.uk/2020/10/better-git-diff-output-for-ruby-python-elixir-and-more
 
