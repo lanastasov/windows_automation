@@ -37,6 +37,18 @@ REM Windows registry location for Windows clients: Software\Policies\Google\Chro
 REM Admin cmd -> gpedit.exe
 REM chrome://policy/
 
+REM VSCode extensions
+REM formulahendry.auto-rename-tag
+REM coenraads.bracket-pair-colorizer
+REM sbrink.elm
+REM dsznajder.es7-react-js-snippets
+REM golang.go
+REM kbysiec.vscode-go-to-mdn
+REM vincaslt.highlight-matching-tag
+REM oderwat.indent-rainbow
+REM ritwickdey.liveserver
+REM nervtech.mq4
+
 REM remote shutdown
 REM http://mswintips.com/Access%20Is%20Denied.(5)%20On%20Remote%20Shutdown%20Fix.php
 REM https://www.groovypost.com/howto/remote-shutdown-restart-windows-10/
