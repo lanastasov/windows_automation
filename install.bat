@@ -17,6 +17,9 @@ REM windows_automation/apps/sizer334.msi
 REM desktop-7huo5h1
 REM DESKTOP-9ODBGEN
 
+REM last reboot
+REM https://lifehacker.com/use-event-viewer-to-tell-when-your-pc-last-rebooted-5459919
+
 REM https://code.labstack.com/go
 
 REM Start HTML5 video at a particular position when loading?
