@@ -17,6 +17,9 @@ REM windows_automation/apps/sizer334.msi
 REM desktop-7huo5h1
 REM DESKTOP-9ODBGEN
 
+REM reset ssd with diskpart
+REM https://www.crucial.com/support/articles-faq-ssd/reset-ssd-with-windows-diskpart
+
 REM last reboot
 REM https://lifehacker.com/use-event-viewer-to-tell-when-your-pc-last-rebooted-5459919
 
