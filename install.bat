@@ -17,6 +17,12 @@ REM windows_automation/apps/sizer334.msi
 REM desktop-7huo5h1
 REM DESKTOP-9ODBGEN
 
+REM ADX
+REM Period - 14
+REM Style - DodgerBlue
+REM +DI - Olive
+REM -DI - LightSalmon
+
 REM reset ssd with diskpart
 REM https://www.crucial.com/support/articles-faq-ssd/reset-ssd-with-windows-diskpart
 
