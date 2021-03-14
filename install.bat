@@ -10,6 +10,9 @@ REM st2-zoomed:    1294 x 756
 
 REM https://www.radioeins.de/livestream/
 
+REM Mobile FTP on Windows
+REM https://neatbytes.uservoice.com/forums/274528-solid-explorer-2-0/suggestions/40497772-ftp-on-windows-the-folder-is-read-only-becaus
+
 REM sizer - resize windows
 REM http://www.brianapps.net/sizer/sizer334.msi
 REM windows_automation/apps/sizer334.msi
