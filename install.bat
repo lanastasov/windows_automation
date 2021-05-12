@@ -10,6 +10,12 @@ REM st2-zoomed:    1294 x 756
 
 REM https://www.radioeins.de/livestream/
 
+REM 2021 Flash Player
+REM search for: `adobre flash player debug`
+REM https://www.youtube.com/watch?v=KmcMnRr9t9o&ab_channel=GameTrick
+REM https://www.adobe.com/support/flashplayer/debug_downloads.html
+
+
 REM Mobile FTP on Windows
 REM https://neatbytes.uservoice.com/forums/274528-solid-explorer-2-0/suggestions/40497772-ftp-on-windows-the-folder-is-read-only-becaus
 
