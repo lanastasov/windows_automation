@@ -11,7 +11,7 @@ REM st2-zoomed:    1294 x 756
 REM https://www.radioeins.de/livestream/
 
 REM 2021 Flash Player
-REM search for: `adobre flash player debug`
+REM search for: `adobe flash player debug`
 REM https://www.youtube.com/watch?v=KmcMnRr9t9o&ab_channel=GameTrick
 REM https://www.adobe.com/support/flashplayer/debug_downloads.html
 
