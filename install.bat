@@ -12,6 +12,9 @@ REM st2-zoomed:    1294 x 756
 
 REM https://www.radioeins.de/livestream/
 
+REM https://www.practical-go-lessons.com/
+REM https://go101.org/article/101.html
+
 REM 2021 Flash Player
 REM search for: `adobe flash player debug`
 REM https://www.youtube.com/watch?v=KmcMnRr9t9o&ab_channel=GameTrick
