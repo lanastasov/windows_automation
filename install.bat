@@ -14,6 +14,7 @@ REM https://www.radioeins.de/livestream/
 
 REM https://www.practical-go-lessons.com/
 REM https://go101.org/article/101.html
+REM https://golangbot.com/learn-golang-series/
 
 REM 2021 Flash Player
 REM search for: `adobe flash player debug`
