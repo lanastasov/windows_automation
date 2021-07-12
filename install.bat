@@ -191,6 +191,11 @@ REM dir "*text*" /s
 REM ShareX
 REM Task Settings -> Upload -> File naming -> Name pattern for window capture: %pn_%y-%mo-%d_%h-%mi-%s
 
+REM GIT
+REM change message of last commit
+REM git commit --amend -m "new message"
+REM git push --force
+
 :CheckOS
 IF EXIST "%PROGRAMFILES(X86)%" (GOTO 64BIT) ELSE (GOTO 32BIT)
 
