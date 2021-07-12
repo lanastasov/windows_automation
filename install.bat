@@ -5,6 +5,8 @@ REM      - Broadcom NetLink (TM) Gigabit Ethernet
 
 REM 1920 x 1080
 
+REM https://www.deepl.com/translator - dictionary(translator)
+
 REM sizer
 REM chrome-zoomed: 1290 x 725 window
 REM meta-zoomed:   1295 x 758
