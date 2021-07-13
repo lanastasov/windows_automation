@@ -7,6 +7,9 @@ REM 1920 x 1080
 
 REM https://www.deepl.com/translator - dictionary(translator)
 
+REM LaserJet P1005 not working with Win10
+REM https://h30434.www3.hp.com/t5/Printers-Archive-Read-Only/LaserJet-P1005-not-working-with-Win10/td-p/5278003
+
 REM sizer
 REM chrome-zoomed: 1290 x 725 window
 REM meta-zoomed:   1295 x 758
