@@ -199,6 +199,10 @@ REM change message of last commit
 REM git commit --amend -m "new message"
 REM git push --force
 
+REM GIT merge two unrelated histories
+REM git pull origin master --allow-unrelated-histories
+REM https://careerkarma.com/blog/git-fatal-refusing-to-merge-unrelated-histories/
+
 :CheckOS
 IF EXIST "%PROGRAMFILES(X86)%" (GOTO 64BIT) ELSE (GOTO 32BIT)
 
