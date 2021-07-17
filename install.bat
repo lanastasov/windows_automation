@@ -203,6 +203,10 @@ REM GIT merge two unrelated histories
 REM git pull origin master --allow-unrelated-histories
 REM https://careerkarma.com/blog/git-fatal-refusing-to-merge-unrelated-histories/
 
+REM Bring a local folder to remote git repo
+REM https://superuser.com/questions/1412078/bring-a-local-folder-to-remote-git-repo
+
+
 :CheckOS
 IF EXIST "%PROGRAMFILES(X86)%" (GOTO 64BIT) ELSE (GOTO 32BIT)
 
