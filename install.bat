@@ -23,6 +23,7 @@ REM https://golangbot.com/learn-golang-series/
 REM https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md
 REM https://blasrodri.github.io/spaceship-go-gh-pages/cover.html
 REM https://github.com/quii/learn-go-with-tests
+REM https://openfaas.gumroad.com/l/everyday-golang
 
 REM 2021 Flash Player
 REM search for: `adobe flash player debug`
