@@ -173,6 +173,8 @@ REM http://www.jzip.com/
 REM CD/DVD Burner
 REM http://www.imgburn.com/index.php?act=download&
 
+REM <<<<POT Player>>>>
+^^^^^^^^^^^^^
 REM KMPlayer
 REM GLOBAL HOTKEYS
 REM F2(PREFERENCES) -> General -> Keys/Global Control -> Global
