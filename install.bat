@@ -6,6 +6,9 @@ REM      - Broadcom NetLink (TM) Gigabit Ethernet
 REM 1920 x 1080
 
 REM https://www.deepl.com/translator - dictionary(translator)
+REM https://de.pons.com/%C3%BCbersetzung/deutsch-englisch/abbiegen
+REM https://bgde.dict.cc/
+REM https://www.linguee.de/deutsch-englisch
 
 REM LaserJet P1005 not working with Win10
 REM https://h30434.www3.hp.com/t5/Printers-Archive-Read-Only/LaserJet-P1005-not-working-with-Win10/td-p/5278003
