@@ -88,6 +88,10 @@ REM oderwat.indent-rainbow
 REM ritwickdey.liveserver
 REM nervtech.mq4
 
+REM VS Code Theme
+REM File -> Preference -> Color Theme [Ctrl+K Ctrl+T]
+REM Ayu Mirage Plus
+
 REM remote shutdown
 REM http://mswintips.com/Access%20Is%20Denied.(5)%20On%20Remote%20Shutdown%20Fix.php
 REM https://www.groovypost.com/howto/remote-shutdown-restart-windows-10/
