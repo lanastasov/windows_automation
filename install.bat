@@ -219,6 +219,7 @@ REM https://superuser.com/questions/1412078/bring-a-local-folder-to-remote-git-r
 
 REM GIT - Stepping through a Code Demo
 REM http://www.codingeverything.com/2014/06/StepThroughCodeDemo.html
+REM https://superuser.com/questions/411514/using-git-how-do-i-go-back-to-first-commit-then-go-through-the-history
 
 :CheckOS
 IF EXIST "%PROGRAMFILES(X86)%" (GOTO 64BIT) ELSE (GOTO 32BIT)
