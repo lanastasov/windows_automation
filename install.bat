@@ -20,6 +20,11 @@ REM st2-zoomed:    1294 x 756
 
 REM https://www.radioeins.de/livestream/
 
+REM Ra
+REN https://www.lawofone.info/
+
+REM https://www.earnforex.com/forex-course/
+
 REM https://www.practical-go-lessons.com/
 REM https://go101.org/article/101.html
 REM https://golangbot.com/learn-golang-series/
