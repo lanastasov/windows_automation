@@ -163,6 +163,9 @@ REM MiniTool Power Data Recovery free edition
 
 REM PDF-XChange Viewer
 REM http://www.tracker-software.com/product/pdf-xchange-viewer
+REM https://ccm.net/faq/25627-pdf-xchange-viewer-maintain-current-pages-view-in-full-screen-mode
+
+REM PDF-Sumatra
 REM http://www.sumatrapdfreader.org/download-free-pdf-viewer.html
 REM gswin64c -sDEVICE=txtwrite -o output.txt input.pdf
 REM pdftk file.pdf cat 26-34 output file3.pdf
