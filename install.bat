@@ -18,6 +18,13 @@ REM chrome-zoomed: 1290 x 725 window
 REM meta-zoomed:   1295 x 758
 REM st2-zoomed:    1294 x 756
 
+
+REM Donchian Channel
+REM Upper - OliveDrab
+REM Middle - Gray
+REM Lower - PaleVioletRed
+REM Period Of Averaging - 200
+
 REM https://www.libhunt.com/l/go
 
 REM https://www.radioeins.de/livestream/
