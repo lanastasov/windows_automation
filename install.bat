@@ -43,6 +43,7 @@ REM https://www.lawofone.info/
 
 REM https://www.earnforex.com/forex-course/
 
+REM https://www.programming-books.io/essential/go/
 REM https://www.practical-go-lessons.com/
 REM https://go101.org/article/101.html
 REM https://golangbot.com/learn-golang-series/
