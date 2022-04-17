@@ -229,6 +229,10 @@ REM findstr /s "computer help" *.txt
 REM Search for files from dos command prompt
 REM dir "*text*" /s
 
+REM Copy current folder recursively
+REM xcopy . destination\ /E/H
+REM cmderr -> cp /R . destionation\
+
 REM ShareX
 REM Task Settings -> Upload -> File naming -> Name pattern for window capture: %pn_%y-%mo-%d_%h-%mi-%s
 
