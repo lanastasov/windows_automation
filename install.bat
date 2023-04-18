@@ -111,6 +111,7 @@ REM vincaslt.highlight-matching-tag
 REM oderwat.indent-rainbow
 REM ritwickdey.liveserver
 REM nervtech.mq4
+REM adpyke.codesnap
 
 REM VS Code Theme
 REM File -> Preference -> Color Theme [Ctrl+K Ctrl+T]
