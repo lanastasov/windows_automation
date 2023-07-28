@@ -101,6 +101,7 @@ REM Admin cmd -> gpedit.exe
 REM chrome://policy/
 
 REM VSCode extensions
+REM ext install alefragnani.Bookmarks
 REM formulahendry.auto-rename-tag
 REM coenraads.bracket-pair-colorizer
 REM sbrink.elm
